@@ -18,7 +18,7 @@ Those who create mods:
 |Game|Version|Processor|Owner|UseFrida|İmage|
 | -- | -- | -- | -- | -- | -- |
 | BB | [16.24](https://www.mediafire.com/file/2503r9ns5cyjmv7/Boom+Beach+v16.24.apk/file) | armeabi-v7a | Magich | false | ![1](img/bb_v16.png) |
-| BB | [20.46](https://www.mediafire.com/file/2503r9ns5cyjmv7/Boom+Beach+v16.24.apk/file) | armeabi-v7a | MeteHun | false | ![1](img/bb_v20.png) |
+| BB | [20.46](https://www.mediafire.com/file/a5iggddjqacgooj/Boom+Beach+v20.46.apk/file) | armeabi-v7a | MeteHun | false | ![1](img/bb_v20.png) |
 | CoC | [5.2.4](https://drive.google.com/file/d/14SkYm4vEp2Lsr3YKm3qjzoL7Mo4vSij2) | armeabi-v7a | Mr Vitalik & MeteHun | true | ![1](img/coc_v5.2.jpg) |
 | CoC | [7.1.1](https://drive.google.com/file/d/1--NJDWCxf5vwkO4bEW4N-k3guQrpTup1) | armeabi-v7a | MeteHun | false | ![1](img/coc_v7.jpg) |
 | CoC | [13.369.18](https://drive.google.com/file/d/1DYXvmCByB2biZ_9wkcLdY-SNuKdu8Ma4) | armeabi-v7a | Mr Vitalik | true | ![1](img/coc_v13.jpg) ![2](img/coc_v13_bb.jpg) |
